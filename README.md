@@ -26,9 +26,6 @@ A web application backed by the power of <b>Decentralization!</b> The motive of 
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
   [![Hardhat](https://img.shields.io/badge/Hardhat-ede65c?style=for-the-badge&&logoColor=white)](https://hardhat.org/)&nbsp;
 
-- **Hosting** [![Fleek](https://img.shields.io/badge/Fleek.co-213?style=for-the-badge)](https://fleek.co/)&nbsp;
-  [![Goerli Etherscan](https://img.shields.io/badge/Etherscan.io-darkblue?style=for-the-badge)](https://goerli.etherscan.io/)&nbsp;
-  [![Alchemy](https://img.shields.io/badge/Alchemy-blue?style=for-the-badge)](https://dashboard.alchemy.com/)&nbsp;
 
 ## :snowflake: ScreenShots
 
