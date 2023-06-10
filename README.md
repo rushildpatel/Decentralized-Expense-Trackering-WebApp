@@ -51,4 +51,5 @@ A web application backed by the power of <b>Decentralization!</b> The motive of 
 
 - Graphical Analysis of Top Incomes and Expenses
 - <img src="https://user-images.githubusercontent.com/52382282/211577792-98892daf-58a4-4cba-9531-bcb043b8d6c6.png" alt="drawing" width="800" height="400"/>
+![rushil sign](https://github.com/rushildpatel/Decentralized-Expense-Trackering-WebApp/assets/73517149/a455c1e0-13c3-4237-945f-8a134456e203)
 
